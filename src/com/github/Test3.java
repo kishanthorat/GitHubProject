@@ -1,10 +1,10 @@
 package com.github;
 
-public class Test1 {
+public class Test3 {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Test-1 is done");
+		System.out.println("Test-3 is done");
 	}
 
 }
