@@ -4,7 +4,7 @@ public class Test1 {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Test1 is done");
+		System.out.println("Test-1 is done");
 	}
 
 }
