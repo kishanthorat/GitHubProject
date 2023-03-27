@@ -1,6 +1,6 @@
 package com.github;
 
-public class Task6 {
+public class Test6 {
 	
 public static void main(String[] args) {
 		
